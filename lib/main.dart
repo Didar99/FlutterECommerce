@@ -61,7 +61,7 @@ class _HomePageState extends State<Homepage> {
             InkWell(
               onTap: (){},
               child: ListTile(
-                title: Text('My orders', style: TextStyle(fontSize: 16),),
+                title: Text('My Orders', style: TextStyle(fontSize: 16),),
                 leading: Icon(Icons.shopping_basket),
               ),
             ),
